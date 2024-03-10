@@ -1,6 +1,6 @@
 **About The Project**
 
-Yum is a restaurant review website
+Yum is a restaurant review website. Users can search for restaurants based on the location or category such as casual and fast food restaurants and be able to leave a review afterwards.
 
 **Installation**
 
