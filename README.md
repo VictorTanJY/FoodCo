@@ -16,7 +16,7 @@ Yum is a restaurant review website
 ```
 $ npm install
 ```
-6) Run the server
+6) Start the server
 ```
 $ npm run start-dev
 ```
