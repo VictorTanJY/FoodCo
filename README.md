@@ -12,6 +12,12 @@ Yum is a restaurant review website
 
 4) Run the init.sql script in database folder
 
-5)
+5) Install the JS dependencies from package.json using npm:
+
+$ npm install
+
+6) Run the server
+
+$ npm run start-dev
 
 
